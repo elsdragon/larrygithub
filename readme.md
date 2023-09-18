@@ -1,4 +1,4 @@
 #Larry Plotter
 Es la historia de un hacker el mejor de todos los tiempos
 
-**Lucia Dominguez**
+**Lucia Dominguez**, Git lover
